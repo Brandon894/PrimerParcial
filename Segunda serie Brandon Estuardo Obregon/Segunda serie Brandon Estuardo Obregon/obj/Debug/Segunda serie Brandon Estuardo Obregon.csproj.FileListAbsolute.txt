@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\bin\Debug\Segunda serie Brandon Estuardo Obregon.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\bin\Debug\Segunda serie Brandon Estuardo Obregon.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\bin\Debug\Segunda serie Brandon Estuardo Obregon.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\obj\Debug\Segunda serie Brandon Estuardo Obregon.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\obj\Debug\Segunda serie Brandon Estuardo Obregon.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Segunda serie Brandon Estuardo Obregon\Segunda serie Brandon Estuardo Obregon\obj\Debug\Segunda serie Brandon Estuardo Obregon.pdb

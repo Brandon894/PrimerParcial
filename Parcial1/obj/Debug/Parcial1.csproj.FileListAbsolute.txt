@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.pdb
